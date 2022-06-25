@@ -9,4 +9,8 @@ O objetivo deste repositório é organizar os arquivos criados no desenvolviment
 # Partes do Processador
 
 
+# Resultados
+
+
+
 

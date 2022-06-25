@@ -11,6 +11,5 @@ O objetivo deste repositório é organizar os arquivos criados no desenvolviment
 
 # Resultados
 
-
-
+A simulação foi realizada com o software questaSIM da Mentor Graphics®. 
 

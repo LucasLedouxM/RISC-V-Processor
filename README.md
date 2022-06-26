@@ -11,11 +11,6 @@ O objetivo deste repositório é organizar os arquivos criados no desenvolviment
 ## Descrição do Projeto
 <p align="center">este projeto consiste</p>
 
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
-
 
 ## Partes do Processador
 

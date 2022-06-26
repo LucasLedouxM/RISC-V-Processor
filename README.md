@@ -9,12 +9,22 @@ O objetivo deste repositório é organizar os arquivos criados no desenvolviment
 
 
 ## Descrição do Projeto
-<p align="center">este projeto consiste</p>
+
 
 
 ## Partes do Processador
 
 ### alu
+### Alu_op.vhd
+### Branch_control.vhd
+### csr_ctr.vhd
+### decoder.vhd
+### instruction_memory.vhd
+### pc_addr.vhd
+### rt_dt_ctl.vhd
+### wr_dt_ctrl.vhd
+
+
 
 
 ## Resultados

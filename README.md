@@ -8,6 +8,9 @@ RISC-V</h1>
 O objetivo deste repositório é organizar os arquivos criados no desenvolvimento e validação de um um processador RISC-V para o meu trabalho de conclusão de curso de engenharia elétrica pela Universidade Federal da Bahia. Os arquivos aqui presente podem ser de grande utilidade para estudantes e proficionais que desejam aprender mais sobre a arquitetura RISC-V.
 
 
+## Descrição do Projeto
+<p align="center">Escrever uma breve descrição</p>
+
 # Partes do Processador
 
 

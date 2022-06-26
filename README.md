@@ -15,7 +15,7 @@ RISC-V</h1>
 ## Partes do Processador
 
 ### Unidade lógica e aritmética (ALU): ALU.vhd
-A ALU é um circuito integrado na CPU que executa as operações lógicas e aritiméticas.
+A ALU é o componente da CPU que executa as operações lógicas e aritiméticas.
 
 
 

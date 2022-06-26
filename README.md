@@ -14,7 +14,7 @@ RISC-V</h1>
 
 ## Partes do Processador
 
-### ALU.vhd
+### Unidade lógica e aritmética (ALU): ALU.vhd
 ### Alu_op.vhd
 ### Branch_control.vhd
 ### csr_ctr.vhd

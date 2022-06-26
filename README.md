@@ -3,18 +3,20 @@
 <h1 align="center">Desenvolvimento e Validação de um Processador
 RISC-V</h1>
 
-# Introdução
+## Introdução
 
 O objetivo deste repositório é organizar os arquivos criados no desenvolvimento e validação de um um processador RISC-V para o meu trabalho de conclusão de curso de engenharia elétrica pela Universidade Federal da Bahia. Os arquivos aqui presente podem ser de grande utilidade para estudantes e proficionais que desejam aprender mais sobre a arquitetura RISC-V.
 
 
 ## Descrição do Projeto
-<p align="center">Escrever uma breve descrição</p>
+<p align="center">este projeto consiste</p>
 
-# Partes do Processador
+## Partes do Processador
+
+### alu
 
 
-# Resultados
+## Resultados
 
 A simulação foi realizada com o software questaSIM da Mentor Graphics®. 
 

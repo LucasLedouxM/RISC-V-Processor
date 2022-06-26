@@ -14,15 +14,15 @@ O objetivo deste repositório é organizar os arquivos criados no desenvolviment
 
 ## Partes do Processador
 
-#### ALU.vhd
-#### Alu_op.vhd
-#### Branch_control.vhd
-#### csr_ctr.vhd
-#### decoder.vhd
-#### instruction_memory.vhd
-#### pc_addr.vhd
-#### rt_dt_ctl.vhd
-#### wr_dt_ctrl.vhd
+### ALU.vhd
+### Alu_op.vhd
+### Branch_control.vhd
+### csr_ctr.vhd
+### decoder.vhd
+### instruction_memory.vhd
+### pc_addr.vhd
+### rt_dt_ctl.vhd
+### wr_dt_ctrl.vhd
 
 
 

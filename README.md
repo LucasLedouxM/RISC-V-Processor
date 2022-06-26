@@ -14,7 +14,7 @@ O objetivo deste repositório é organizar os arquivos criados no desenvolviment
 
 ## Partes do Processador
 
-### ALU.vhd
+### - ALU.vhd
 ### Alu_op.vhd
 ### Branch_control.vhd
 ### csr_ctr.vhd

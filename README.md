@@ -16,7 +16,7 @@ RISC-V</h1>
 
 
 
-## Partes do Processador
+## RTL Processador
 
 ### Unidade lógica e aritmética (ALU): ALU.vhd
 A ALU é o componente da CPU que executa as operações lógicas e aritiméticas.

@@ -14,6 +14,8 @@ RISC-V</h1>
 
 ## Descrição do Projeto
 
+O trabalho consiste no desenvolvimento e validação de uma CPU, envolvendo a
+concepção do RTL descrito em HDL.
 
 
 ## RTL Processador

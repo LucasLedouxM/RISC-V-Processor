@@ -20,6 +20,9 @@ concepção do RTL descrito em HDL.
 
 ## RTL Processador
 
+O RTL do processador esta dividido em blocos que, ao conectados, constituem o processador RISC-V.
+
+
 ### Unidade lógica e aritmética (ALU): ALU.vhd
 A ALU é o componente da CPU que executa as operações lógicas e aritiméticas.
 

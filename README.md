@@ -23,6 +23,8 @@ concepção do RTL descrito na linguagem de descrição de hardware SystemVerilo
 O RTL do processador esta dividido em blocos que, ao conectados, constituem o processador RISC-V.
 
 
+
+
 ### Unidade lógica e aritmética (ALU): ALU.vhd
 A ALU é o componente da CPU que executa as operações lógicas e aritiméticas.
 
@@ -42,7 +44,7 @@ A ALU é o componente da CPU que executa as operações lógicas e aritiméticas
 
 ## Resultados
 
-A simulação foi realizada com o software questaSIM da Mentor Graphics®. 
+A simulação foi realizada com o software questaSIM da Mentor Graphics®. Os resultados são disponibilizados na pasta "resultados" com arquivos escritos na linguagem SystemVerilog.
 
 
 
